@@ -1,0 +1,11 @@
+/* Arquivo apartado para estilização */
+
+
+
+.quadrado{
+  text-align: center;
+  float: left;
+  width: 600px;
+  height: 600px;
+  background-color: rgb(180,40,35);
+}
