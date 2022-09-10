@@ -1,5 +1,11 @@
-.Noir{
+/* .Noir{
   width: 200px;
-  height: 500px;
-}
+  height: 500px; 
+  top: 50%;
+  left: 50%;
+} */
+.Main{
+  display: flex;
+  justify-content: space-around;  /*  */
 
+}
